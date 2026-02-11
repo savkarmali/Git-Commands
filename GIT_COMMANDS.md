@@ -80,8 +80,3 @@
 - **Remove file from staging**  
   `git reset <filename>`
 
----
-
-For a printable cheat sheet, check out [GeeksforGeeks Git Cheat Sheet](https://www.geeksforgeeks.org/git/git-cheat-sheet/) or the [GitHub Education PDF](https://education.github.com/git-cheat-sheet-education.pdf).
-
-Would you like a tailored Git workflow for your Spring Boot + microservices project with secure deployment practices?
